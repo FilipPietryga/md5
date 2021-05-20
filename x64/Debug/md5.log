@@ -1,0 +1,6 @@
+﻿  main.cpp
+  md5.cpp
+C:\Users\Purcupine\source\repos\FilipPietryga\md5\md5.cpp(5,4): error C2059: syntax error: ']'
+C:\Users\Purcupine\source\repos\FilipPietryga\md5\md5.cpp(5,8): error C2143: syntax error: missing ';' before '{'
+  Generating Code...
+C:\Users\Purcupine\source\repos\FilipPietryga\md5\md5.cpp(8,66): error C2143: syntax error: missing ';' before '}'
