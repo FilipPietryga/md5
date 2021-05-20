@@ -4,5 +4,5 @@
 int main()
 {
 	//Md5 md5 = new Md5();
-	//char* result = md5(1);
+	//char* result = md5.calc(1);
 }
